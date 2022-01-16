@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 
 p{
-  font-family: 'Mochiy Pop P One', sans-serif; 
+  font-family: 'Mochiy Pop P One', sans-serif;
   font-size: 20px;
 }
 
 h1{
-  font-family: 'Fredoka One', cursive;
-  font-size: 60px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 45px;
 }
 
 h2{
