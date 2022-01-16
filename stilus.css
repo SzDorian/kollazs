@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Kaushan+Script&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
 
 h1{
@@ -28,6 +28,7 @@ a {
 }
 
 .sidebar {
+  font-family: 'Shadows Into Light', cursive;
   margin: 0;
   padding: 0;
   width: 200px;
@@ -45,7 +46,7 @@ a {
 }
 
 .sidebar a.active {
-  font-family: 'Fugaz One', cursive;
+  font-family: 'Shadows Into Light', cursive;
   font-size: 50px;
   background-color: yellow;
   color: blue;
