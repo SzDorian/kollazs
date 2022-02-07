@@ -39,7 +39,7 @@ a {
   padding: 0;
   width: 200px;
   background-color: #2d19ff;
-  position: fixed;
+  position:top;
   height: 100%;
   overflow: auto;
 }
@@ -77,7 +77,7 @@ div.content {
   }
 
   .sidebar a {
-    float: top;
+    float: left;
   }
 
   div.content {
