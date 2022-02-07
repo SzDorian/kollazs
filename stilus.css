@@ -39,7 +39,7 @@ a {
   padding: 0;
   width: 200px;
   background-color: #2d19ff;
-  position:top;
+  position:fixed;
   height: 100%;
   overflow: auto;
 }
