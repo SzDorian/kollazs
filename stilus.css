@@ -1,16 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 
-p{
-  font-family: 'Mochiy Pop P One', sans-serif;
-  font-size: 20px;
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: yellow;
+  color: white;
+  text-align: center
 }
-
+ 
 h1{
-  font-family: 'Dancing Script', cursive;
-  font-size: 45px;
+  font-family: 'Fredoka One', cursive;
+  font-size: 60px;
 }
 
 h2{
@@ -20,7 +26,7 @@ h2{
 body {
   margin: 0;
   font-family: "Lato", sans-serif;
-  background-color: #fcfc94;
+  background-color: lightyellow;
 }
 
 button {
@@ -29,16 +35,15 @@ button {
 }
 
 a {
-  color: aqua;
+  color:green;
   text-decoration: none;
 }
 
 .sidebar {
-  font-family: 'Shadows Into Light', cursive;
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #2d19ff;
+  background-color: #f1f1f1;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -52,8 +57,8 @@ a {
 }
 
 .sidebar a.active {
-  font-family: 'Shadows Into Light', cursive;
-  font-size: 50px;
+  font-family: 'Fugaz One', cursive;
+  font-size: 30px;
   background-color: yellow;
   color: blue;
 }
